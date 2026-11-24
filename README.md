@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tax Administration Management System (TAMS)
 
 Java console project for the AUCA_ID OOP practical assignment.
@@ -29,3 +30,7 @@ java -cp out com.auca.main.Main
 
 ## Suggested next development stage
 Complete the linked-record workflows for obligations, declarations, assessments, payments, penalties, refunds and clearances, then add the four-step BACK/CANCEL/review forms and all acceptance-test scenarios from the assignment.
+=======
+# OOP_ASSIGNMENT1_29288
+Assignment
+>>>>>>> 3169b8da4c7cec94c3dae2935cd10192531371f5
